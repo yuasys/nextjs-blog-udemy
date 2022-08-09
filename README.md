@@ -1,7 +1,10 @@
 # このリポジトリについて
-下記Udemy講座の学習記録となります。  
+Udemy講座の学習記録を目的にフォークしたものであり、これは完成版（お手本）です。 お手本として大切に保管しながらも、学習を通して得られた気付きを記録します。
 
-[【Next.js入門】](https://www.udemy.com/course/nextjs-microblog-for-beginner/) ReactフレームワークのNext.jsでマイクロブログを構築しながら基礎と本質を学ぶ講座
+- ソースコードに解説コメントを挿入
+- （ある程度まとまったら）考え方・手順・次につながる課題などを新規文書として追加
+
+対象Udemy講座：[【Next.js入門】](https://www.udemy.com/course/nextjs-microblog-for-beginner/) ReactフレームワークのNext.jsでマイクロブログを構築しながら基礎と本質を学ぶ講座
 
 <hr/>
 
