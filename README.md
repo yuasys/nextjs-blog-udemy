@@ -1,4 +1,9 @@
-https://nextjs-blog-udemy-mod.vercel.app
+# このリポジトリについて
+下記Udemy講座の学習記録となります。  
+
+[【Next.js入門】](https://www.udemy.com/course/nextjs-microblog-for-beginner/) ReactフレームワークのNext.jsでマイクロブログを構築しながら基礎と本質を学ぶ講座
+
+<hr/>
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
